@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Butterfly_pattern {
+public class butterflyptrn {
     public static void main(String[] args) {
         int n=4;
         //for top quarter of left side
